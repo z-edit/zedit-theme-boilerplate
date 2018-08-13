@@ -1,0 +1,4 @@
+[submodule "zedit"]
+	path = zedit
+	url = https://github.com/z-edit/zedit
+	branch = styles
