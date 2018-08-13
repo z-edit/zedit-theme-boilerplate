@@ -1,0 +1,10 @@
+{
+  "id": "boilerplateTheme",
+  "name": "Boilerplate Theme",
+  "author": "Mator",
+  "version": "1.0",
+  "released": "8/12/2018",
+  "updated": "8/12/2018",
+  "description": "A boilerplate for zEdit themes.",
+  "syntaxTheme": "eclipse"
+}
